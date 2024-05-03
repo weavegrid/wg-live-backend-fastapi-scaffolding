@@ -1,2 +1,7 @@
-# wg-live-backend-fastapi-scaffolding
-Basic Boilerplate for a FastAPI app, starting point for backend live coding interview for potential Engineering hires
+This repository is a simple starting point for building an API app using python and FastAPI.
+
+To install requirements: `pip install fastapi`
+
+To run the server: `fastapi dev main.py`
+
+Docs and more found at https://fastapi.tiangolo.com/#example
